@@ -3,4 +3,4 @@ A WeChat mini program
 
 ## feature
 
-记录上一次
+为你记录上一次行为
